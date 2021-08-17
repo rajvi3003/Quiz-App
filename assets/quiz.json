@@ -1,0 +1,53 @@
+{
+    "Questions": [{
+            "icon": "Q1",
+            "id": 0,
+            "Question": "Distance of the centre of mass of a solid uniform cone from its vertex is ",
+            "option": ["a", "b", "c", "d"]
+        },
+
+
+        {
+            "icon": "Q2",
+            "id": 1,
+            "Question": "Murli Vijay",
+            "option": ["e", "f", "g", "h"]
+        },
+        {
+            "icon": "Q3",
+            "id": 2,
+            "Question": "Murli Vijay",
+            "option": ["e", "f", "g", "h"]
+        },
+        {
+            "icon": "Q4",
+            "id": 3,
+            "Question": " Vijay",
+            "option": ["y", "g", "m", "h"]
+        },
+        {
+            "icon": "Q5",
+            "id": 4,
+            "Question": "Muli",
+            "option": ["x", "1", "q", "d"]
+        },
+        {
+            "icon": "Q6",
+            "id": 4,
+            "Question": "Mrli",
+            "option": ["x", "1", "q", "d"]
+        },
+        {
+            "icon": "Q7",
+            "id": 4,
+            "Question": "urli",
+            "option": ["x", "1", "q", "d"]
+        },
+        {
+            "icon": "Q8",
+            "id": 4,
+            "Question": "i",
+            "option": ["x", "1", "q", "d"]
+        }
+    ]
+}
